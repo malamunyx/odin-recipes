@@ -9,9 +9,23 @@ h1, h2{
 .content {
 	display: flex;
 	justify-content: space-evenly;
+	text-align: center;
 }
 .item {
 	background: #FCA311;
 	width: 30%;
 	height: 30%;
+	padding: 5px 5px 0px 5px;
+	border-radius: 2%;
 }
+img {
+	width:100%;
+	max-width: 100%;
+	max-height: auto;
+	border-radius: 1.25%;
+}
+
+/* 
+colours: https://coolors.co/000000-14213d-fca311-e5e5e5-ffffff 
+for more information: flavio copes has books
+*/

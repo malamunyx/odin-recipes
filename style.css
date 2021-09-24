@@ -22,8 +22,8 @@ button:hover {
 	background: #FFBD00;
 }
 img {
-	width:100%;
-	max-width: 100%;
+	width:30%;
+	max-width: 30%;
 	max-height: auto;
 	border-radius: 1.25%;
 }
